@@ -74,6 +74,11 @@ const theme = createTheme({
 				},
 			},
 		},
+		MuiList: {
+			styleOverrides: {
+				// fontSize: '14px',
+			},
+		},
 	},
 });
 

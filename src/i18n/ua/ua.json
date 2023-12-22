@@ -35,20 +35,20 @@
 	"header": {
 		"headerTitle": "DND Club",
 		"menu": {
-			"character": "Character",
-			"races": "Races",
-			"rules": "Rules and skills",
-			"combat": "Combat",
-			"spellcasting": "Spellscasting",
-			"adventuring": "Adventuring",
-			"classes": "Classes"
+			"character": "Персонаж",
+			"races": "Раси",
+			"rules": "Правила",
+			"combat": "Бій",
+			"spellcasting": "Чарування",
+			"adventuring": "Пригоди",
+			"classes": "Класи"
 		}
 	},
 	"pages": {
 		"character": {
-			"title": "Character",
+			"title": "Персонаж",
 			"table": {
-				"Classes": [
+				"Класи": [
 					"Barbarian",
 					"Bard",
 					"Cleric",
@@ -62,7 +62,7 @@
 					"Warlock",
 					"Wizard"
 				],
-				"Races": [
+				"Раси": [
 					"Dwarf",
 					"Elf",
 					"Halfling",
@@ -73,7 +73,7 @@
 					"Half-Orc",
 					"Tiefling"
 				],
-				"Other": [
+				"Інше": [
 					"Alignment",
 					"Backgrounds",
 					"Languages",
